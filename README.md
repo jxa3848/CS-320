@@ -1,1 +1,6 @@
 # CS-320
+How can I ensure that my code, program, or software is functional and secure? To make sure it is functional test offten and after you add any testing or new variables. This will help you make sure it runs without errors. To make sure it secure i would use Junit test or marven testing. Junit testing will allows you to run a coverage report that will show if lines of code are being tested. If they are not being tested you need to look at them to see why it could be they are not needed. Getting rid on code thats not need can limit how someone if able to breach your program. Marven testing runs a unit test that can show you areas where you have vulnerabilities.
+
+How do I interpret user needs and incorporate them into a program? First I look at the requirements of the project as this will tell you the needs. If I have questions I will ask for clarity. Then I take the requirements one at a time and code them. After I'm done I look back at the list and compare them to the code to make sure I have them all.
+
+How do I approach designing software? I make an outline of what the client needs. After I'll take it over with the team and see if things are missing are do we need to add things to reach the cleints end goal. Finally I go back to the client and talk over the needs and show them how the software will work to see if they like the design.
